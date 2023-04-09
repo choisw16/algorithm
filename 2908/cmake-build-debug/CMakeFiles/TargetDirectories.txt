@@ -1,3 +1,0 @@
-/Users/choisw/Desktop/백준/2908/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/choisw/Desktop/백준/2908/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/choisw/Desktop/백준/2908/cmake-build-debug/CMakeFiles/2908.dir
